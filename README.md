@@ -1,6 +1,6 @@
 # Projeto Cloudboost
 
-
+<img src="./img/projeto-cloudboost.png">
 
 Projeto desenvolvido durante o módulo de SASS do curso Codeboost. 🚀 
 Nesse módulo, aprendemos a usar o Sass, um pré-processador de CSS que facilita bastante o desenvolvimento com:
