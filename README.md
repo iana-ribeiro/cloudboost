@@ -27,4 +27,4 @@ Além disso, a interface é responsiva, então você pode conferir o resultado n
 
 **E-mail**: ianaribeiro.tech@gmail.com
 
-Ou entre em contato pelo [LinkedIn](https://iana-ribeiro.github.io/cloudboost/).
+Ou entre em contato pelo [LinkedIn](https://www.linkedin.com/in/iana-ribeiro/).
